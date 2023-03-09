@@ -1,0 +1,22 @@
+For execution of code
+
+Task 1 - Run main.m in Task 1 file
+Task 2 - Run task2n3>Task 2 file (ex.art_badpixelcount)
+Task 3 - Run estimatedDisparity.m for different block radius
+	 Run badpixel.count to check individual quality metric
+	 Run Graphs>(dataname).m for individual graphs
+Task 4 - Run task4>sources>nain.m
+
+
+
+
+Output
+
+All png files of each task is in the according folders output file.  Task 1 's output folder is in
+"\am20s052\task2n3\Output\Task1"
+
+Report
+
+Please find the report of individual tasks in mainfolder "Report".
+
+

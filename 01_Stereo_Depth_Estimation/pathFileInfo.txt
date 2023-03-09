@@ -1,0 +1,48 @@
+Input
+
+Art
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\Art\view1.ppm (Left Image)
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\Art\view5.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\Art\disp1.ppm (Left Diparity)
+C:\Users\ASUS\Desktop\am20s052\A1\Art-2views\Art\disp1.png (Ground Truth : Left Disparity_png)
+C:\Users\ASUS\Desktop\am20s052\task2n3\Task3\Output\BlockRadii\Art\blockradii_3.png (Disparity using SAD)
+
+
+
+Books
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\Books\view1B.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\Books\view5B.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\Books\disp1B.pgm
+C:\Users\ASUS\Desktop\am20s052\A1\Books-2views\Books\disp1.png
+C:\Users\ASUS\Desktop\am20s052\task2n3\Task3\Output\BlockRadii\Books\blockradii_3.png 
+
+Cones
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\cones\im2.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\cones\im6.ppm
+C:\Users\ASUS\Desktop\am20s052\A1\cones-png-2\cones\disp6.png
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\cones\disp2.pgm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Task3\Output\BlockRadii\Cones\blockradii_3.png
+
+Dolls
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\dolls\view1.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\dolls\view5.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\dolls\disp1.pgm
+C:\Users\ASUS\Desktop\am20s052\A1\Dolls-2views\Dolls\disp5.png
+C:\Users\ASUS\Desktop\am20s052\task2n3\Task3\Output\BlockRadii\Dolls\blockradii_3.png
+
+
+Reindeer
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\reindeer\view1.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\reindeer\view5.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\reindeer\disp1R.pgm
+C:\Users\ASUS\Desktop\am20s052\A1\Reindeer-2views\Reindeer\disp5.png
+C:\Users\ASUS\Desktop\am20s052\task2n3\Task3\Output\BlockRadii\Reindeer\blockradii_3.png
+
+Teddy
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\teddy\im2.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\teddy\im6.ppm
+C:\Users\ASUS\Desktop\am20s052\task2n3\Input\teddy\disp2t.pgm
+C:\Users\ASUS\Desktop\am20s052\A1\teddy-png-2\teddy\disp6.png
+C:\Users\ASUS\Desktop\am20s052\A1\teddy-png-2\teddy\disp6.png
+
+
